@@ -1,2 +1,1 @@
-# Studying 
-My first experience in GitHub
+# My first experience in GitHub
