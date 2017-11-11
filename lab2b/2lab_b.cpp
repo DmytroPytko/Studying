@@ -1,4 +1,4 @@
-// 2laba2завдання.cpp : Defines the entry point for the console application.
+﻿// 2laba2завдання.cpp : Defines the entry point for the console application .
 //
 
 #include "stdafx.h"
